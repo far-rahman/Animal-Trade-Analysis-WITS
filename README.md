@@ -35,35 +35,35 @@ Shows how export values in the animal product sector spiked post-2002, peaking a
 ### Chapter-Wise Export Dominance
 Chapter 02 (Meat) and Chapter 03 (Fish & Crustaceans) contribute over 94% of exports.
 
-![Chapter Dominance](graphs/Chapter Dominance.png)
+![Chapter Dominance](graphs/Chapter_Dominance.png)
 
 ---
 
 ### Heading-Level Breakdown – Chapter 02
 Export surge in Heading 0202: Frozen Meat of Bovine Animals.
 
-![Chapter 02 Headings](graphs/Chapter 02 Headings.png)
+![Chapter 02 Headings](graphs/Chapter_02_Headings.png)
 
 ---
 
 ### Heading-Level Breakdown – Chapter 03
 Heading 0306: Crustaceans dominate post-2009.
 
-![Chapter 03 Headings](graphs/Chapter 03 Headings.png)
+![Chapter 03 Headings](graphs/Chapter_03_Headings.png)
 
 ---
 
 ### Subheading Spotlight: 020230
 Frozen boneless bovine meat is the key driver in Chapter 02 exports.
 
-![020230 Trend](graphs/020230 Trend.png)
+![020230 Trend](graphs/020230_Trend.png)
 
 ---
 
 ### Subheading Spotlight: 030613
 Frozen shrimps and prawns showed explosive growth post-2009.
 
-![030613 Trend](graphs/030613 Trend.png)
+![030613 Trend](graphs/030613_Trend.png)
 
 ---
 
@@ -85,3 +85,4 @@ LinkedIn: [farhanur-rahman9955](https://linkedin.com/in/farhanur-rahman9955)
 ---
 
 **Disclaimer:** This is an independent academic project. Data accuracy is based on public WITS datasets and is interpreted solely for educational purposes.
+
