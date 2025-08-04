@@ -1,4 +1,6 @@
 # Animal-Trade-Analysis-WITS
+_A data visualization and trend analysis of India's animal product exports using WITS dataset (1991–2023)_
+
 Trade flow analysis of India’s animal product exports (HS 01–05) using WITS data from 1991–2023.
 
 # Animal Trade Analysis (HS 01–05) – India (1991–2023)
